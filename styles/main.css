@@ -1,0 +1,16 @@
+h1 {
+    color: #1b1b1b;
+    font-size: 44pt;
+    text-align: center;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  body {
+    background-color: #fcf0f0;
+    max-width: 340px;
+    margin: auto;
+    font-family: arial;
+  }

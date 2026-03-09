@@ -1,0 +1,29 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <title>⚡Pikachu!⚡</title>
+    <link rel="stylesheet" href="styles/main.css">
+  </head>
+
+  <body>
+
+    <img src="images/pikachu.png">
+      <h1>Pokemon</h1>
+      <h2>Pikachu</h2>
+
+    <p>
+      Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. 
+      If you come across a blackened berry, it's evidence that this Pokemon mistook the intensity
+      of its charge.
+    </p>
+
+    <ul>
+      <li>Height: 41 cm</li>
+      <li>Weight: 13.2 lbs</li>
+      <li>Category: Mouse</li>
+      <li>Abilities: Static</li>
+    </ul>
+    
+  </body>
+
+</html>

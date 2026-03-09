@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <title> Hornet </title>
+    <link rel="stylesheet" href="styles/main.css">
+  </head>
+
+  <body>
+
+    <img src="images/hornet.png" width="300">
+      <h1>Hollow Knight: Silksong</h1>
+      <h2>Hornet</h2>
+
+    <p>
+      Skilled protector of Hallownest's ruins. Wields a needle and thread.
+      Born of the Pale King and One of the three Dreamers Herra the Beast. Brother to Ghost and Hollow.
+      Trained by the White Lady and Hive Queen Vespa.
+      Poshanka!
+    </p>
+
+    <ul>
+      <li>Height: 5.5 cm</li>
+      <li>Weapon: Needle</li>
+      <li>Species: Half Pale Being. Spider. Princess of Hallownest</li>
+      <li>Friends: Shakra, Sherma, Lace, Pilby the Pilgrim</li>
+      <li>Abilities: Needolin, silk, needle</li>
+    </ul>
+    
+  </body>
+
+</html>
